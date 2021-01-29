@@ -1,15 +1,15 @@
 {
-    "c5.9xlarge": {
+    "c5.12xlarge": {
         "tests": [
-            ""
+            "api"
         ],
         "env": {
             "DEVICE": "cpu"
         }
     },
-    "g4dn.2xlarge": {
+    "g4dn.8xlarge": {
         "tests": [
-            ""
+            "api"
         ],
         "env": {
             "DEVICE": "gpu"
